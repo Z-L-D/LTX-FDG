@@ -1,4 +1,4 @@
-# ComfyUI-FDG
+# FDG For LTX2
 
 Implementation of Guidance in the Frequency Domain Enables High-Fidelity Sampling at Low CFG Scales for the LTX2 model inside ComfyUI.
 
